@@ -1,4 +1,4 @@
-//////////////////SETUP////////////////////
+//////////////////SETUP////////////////////  ************
 // Close all other index.html files and open the index.html file in javascript-3/DO_NOT_EDIT/index.html. You should see an input field and a button that says "Add Item". 
 
 //////////////////STEP 1////////////////////
