@@ -44,7 +44,7 @@ function checkGroceryCount() {
       return 'That looks like a big trip'
     } else if ([i] === 1) {
       return '1 item'
-    } else if ([i] > 1 && < 5) {
+    } else if ([i] > 1 && [i] < 5) {
       return `${groceries.length} items`
     }
 }
